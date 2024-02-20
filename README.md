@@ -4,8 +4,8 @@ Bunch of particles following your cursor. Built using Hare and Raylib.
 
 ## Dependencies:
 
-- (Raylib)[https://www.raylib.com/], version used: 5.0-1 
-- (Hare)[https://harelang.org/], version used: hare dev+c50d9288-arch
+- [Raylib](https://www.raylib.com/), version used: 5.0-1 
+- [Hare](https://harelang.org/), version used: hare dev+c50d9288-arch
 
 ## Running:
 
