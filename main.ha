@@ -1,3 +1,6 @@
+// Copyright © 2024- Luka Ivanović
+// This code is licensed under the terms of 2-clause BSD licence (see LICENCE for details)
+
 use fmt;
 use math;
 use math::random;
